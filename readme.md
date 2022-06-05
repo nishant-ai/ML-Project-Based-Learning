@@ -1,1 +1,1 @@
-### Learning Machine Learning via Micro Projects.
+### Studying Machine Learning via Micro Projects.
